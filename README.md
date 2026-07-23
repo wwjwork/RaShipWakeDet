@@ -6,6 +6,7 @@ The data is located in the “aug10” folder. After completing the environment 
 Setting `USE_KFOLD = True` in `get_map.py` yields the results of 5-fold cross-validation, while setting `USE_KFOLD = False` yields the results for fold 1.
 
 The `logs` folder can be obtained via either of the following links:
+
 Download Link 1: https://pan.baidu.com/s/1L0uPELZhNwejuKBUQdyIRA?pwd=wrh2 (Extraction code: wrh2)
 
 Download Link 2: https://huggingface.co/wwjwork/RashipwakeDet_logs
