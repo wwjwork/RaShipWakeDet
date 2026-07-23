@@ -24,3 +24,5 @@ TestResults.xmllogs/
 *.pth
 logs/
 *.pth
+logs/
+*.pth
