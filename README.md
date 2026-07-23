@@ -7,9 +7,11 @@ Setting `USE_KFOLD = True` in `get_map.py` yields the results of 5-fold cross-va
 
 The `logs` folder can be obtained via either of the following links:
 Download Link 1: https://pan.baidu.com/s/1L0uPELZhNwejuKBUQdyIRA?pwd=wrh2 (Extraction code: wrh2)
+
 Download Link 2: https://huggingface.co/wwjwork/RashipwakeDet_logs
 
 The path and folder structure are shown below：
+```
 RaShipWakeDet/
     ├── detector.py
     ├── get_map1.py
@@ -28,3 +30,4 @@ RaShipWakeDet/
     ├── model_data/
     ├── nets/
     └── utils/
+```
