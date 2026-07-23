@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Gemi_115_14226_D2264_E44_A161_X622Y-167_HD270_case008_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>263</xmin>
+            <ymin>106</ymin>
+            <xmax>326</xmax>
+            <ymax>138</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>98</xmin>
+            <ymin>115</ymin>
+            <xmax>294</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+</annotation>

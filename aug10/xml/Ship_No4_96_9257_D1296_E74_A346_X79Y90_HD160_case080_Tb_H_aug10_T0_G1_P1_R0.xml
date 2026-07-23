@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Ship_No4_96_9257_D1296_E74_A346_X79Y90_HD160_case080_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>396</xmin>
+            <ymin>330</ymin>
+            <xmax>444</xmax>
+            <ymax>436</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>365</xmin>
+            <ymin>394</ymin>
+            <xmax>442</xmax>
+            <ymax>550</ymax>
+        </bndbox>
+    </object>
+</annotation>

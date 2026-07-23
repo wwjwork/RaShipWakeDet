@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Balloon_Speed_Boat_12_4286_D1401_E74_A9_X-179Y13_HD265_case010_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>341</xmin>
+            <ymin>171</ymin>
+            <xmax>366</xmax>
+            <ymax>192</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>348</xmin>
+            <ymin>171</ymin>
+            <xmax>472</xmax>
+            <ymax>222</ymax>
+        </bndbox>
+    </object>
+</annotation>

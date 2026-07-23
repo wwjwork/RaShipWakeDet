@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>JBYMSC_176_14385_D1203_E57_A92_X-33Y1_HD80_case002_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>323</xmin>
+            <ymin>248</ymin>
+            <xmax>383</xmax>
+            <ymax>410</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>352</xmin>
+            <ymin>82</ymin>
+            <xmax>470</xmax>
+            <ymax>265</ymax>
+        </bndbox>
+    </object>
+</annotation>

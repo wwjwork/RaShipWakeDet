@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>CargoShip5_45_10720_D1715_E68_A289_X143Y151_HD115_case010_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>434</xmin>
+            <ymin>234</ymin>
+            <xmax>457</xmax>
+            <ymax>277</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>435</xmin>
+            <ymin>262</ymin>
+            <xmax>527</xmax>
+            <ymax>510</ymax>
+        </bndbox>
+    </object>
+</annotation>

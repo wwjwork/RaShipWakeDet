@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>SS_River_Clyde_80_13086_D1706_E44_A278_X-306Y348_HD110_case009_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>155</xmin>
+            <ymin>144</ymin>
+            <xmax>181</xmax>
+            <ymax>178</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>155</xmin>
+            <ymin>160</ymin>
+            <xmax>262</xmax>
+            <ymax>543</ymax>
+        </bndbox>
+    </object>
+</annotation>

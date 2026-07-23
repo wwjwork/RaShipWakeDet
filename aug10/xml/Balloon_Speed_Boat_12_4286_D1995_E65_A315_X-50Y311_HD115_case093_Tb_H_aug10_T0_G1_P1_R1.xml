@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Balloon_Speed_Boat_12_4286_D1995_E65_A315_X-50Y311_HD115_case093_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>416</xmin>
+            <ymin>178</ymin>
+            <xmax>435</xmax>
+            <ymax>199</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>321</xmin>
+            <ymin>182</ymin>
+            <xmax>436</xmax>
+            <ymax>441</ymax>
+        </bndbox>
+    </object>
+</annotation>

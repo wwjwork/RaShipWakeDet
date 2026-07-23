@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>NBB_Kongo_219_16008_D1391_E71_A152_X-21Y-112_HD185_case013_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>353</xmin>
+            <ymin>208</ymin>
+            <xmax>474</xmax>
+            <ymax>370</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>132</xmin>
+            <ymin>64</ymin>
+            <xmax>393</xmax>
+            <ymax>256</ymax>
+        </bndbox>
+    </object>
+</annotation>

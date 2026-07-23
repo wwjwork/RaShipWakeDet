@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Tanker_Ship_32_3681_D1765_E38_A167_X0Y-44_HD75_case025_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>331</xmin>
+            <ymin>306</ymin>
+            <xmax>367</xmax>
+            <ymax>325</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>349</xmin>
+            <ymin>303</ymin>
+            <xmax>542</xmax>
+            <ymax>338</ymax>
+        </bndbox>
+    </object>
+</annotation>

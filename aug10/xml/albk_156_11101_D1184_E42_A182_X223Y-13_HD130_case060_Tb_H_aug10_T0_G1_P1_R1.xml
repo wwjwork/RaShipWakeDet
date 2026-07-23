@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>albk_156_11101_D1184_E42_A182_X223Y-13_HD130_case060_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>278</xmin>
+            <ymin>150</ymin>
+            <xmax>404</xmax>
+            <ymax>213</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>378</xmin>
+            <ymin>97</ymin>
+            <xmax>514</xmax>
+            <ymax>176</ymax>
+        </bndbox>
+    </object>
+</annotation>

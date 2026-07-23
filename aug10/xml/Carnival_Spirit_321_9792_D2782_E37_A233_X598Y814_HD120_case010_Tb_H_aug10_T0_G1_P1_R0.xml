@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Carnival_Spirit_321_9792_D2782_E37_A233_X598Y814_HD120_case010_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>254</xmin>
+            <ymin>90</ymin>
+            <xmax>369</xmax>
+            <ymax>137</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>349</xmin>
+            <ymin>117</ymin>
+            <xmax>542</xmax>
+            <ymax>204</ymax>
+        </bndbox>
+    </object>
+</annotation>

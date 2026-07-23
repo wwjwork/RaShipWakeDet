@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>PCC_122_15035_D2034_E37_A277_X-22Y645_HD250_case069_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>323</xmin>
+            <ymin>119</ymin>
+            <xmax>366</xmax>
+            <ymax>160</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>345</xmin>
+            <ymin>78</ymin>
+            <xmax>452</xmax>
+            <ymax>140</ymax>
+        </bndbox>
+    </object>
+</annotation>

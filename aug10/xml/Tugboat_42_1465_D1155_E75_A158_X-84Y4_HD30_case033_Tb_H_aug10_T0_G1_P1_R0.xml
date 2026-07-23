@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Tugboat_42_1465_D1155_E75_A158_X-84Y4_HD30_case033_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>322</xmin>
+            <ymin>377</ymin>
+            <xmax>372</xmax>
+            <ymax>422</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>354</xmin>
+            <ymin>402</ymin>
+            <xmax>542</xmax>
+            <ymax>556</ymax>
+        </bndbox>
+    </object>
+</annotation>

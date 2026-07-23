@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Conquest_235_12426_D1645_E52_A61_X-41Y-315_HD255_case062_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>215</xmin>
+            <ymin>103</ymin>
+            <xmax>278</xmax>
+            <ymax>228</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>239</xmin>
+            <ymin>208</ymin>
+            <xmax>442</xmax>
+            <ymax>576</ymax>
+        </bndbox>
+    </object>
+</annotation>

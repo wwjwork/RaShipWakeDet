@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Coaster_v8_144_12629_D1448_E51_A31_X-180Y-166_HD15_case085_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>252</xmin>
+            <ymin>140</ymin>
+            <xmax>307</xmax>
+            <ymax>232</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>283</xmin>
+            <ymin>64</ymin>
+            <xmax>389</xmax>
+            <ymax>158</ymax>
+        </bndbox>
+    </object>
+</annotation>

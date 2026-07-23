@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Akatsuki_118_14523_D1499_E73_A299_X12Y173_HD130_case060_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>376</xmin>
+            <ymin>164</ymin>
+            <xmax>415</xmax>
+            <ymax>266</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>387</xmin>
+            <ymin>233</ymin>
+            <xmax>519</xmax>
+            <ymax>537</ymax>
+        </bndbox>
+    </object>
+</annotation>

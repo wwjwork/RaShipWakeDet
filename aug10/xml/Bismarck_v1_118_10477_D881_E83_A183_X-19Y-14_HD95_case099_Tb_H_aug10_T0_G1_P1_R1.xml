@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Bismarck_v1_118_10477_D881_E83_A183_X-19Y-14_HD95_case099_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>275</xmin>
+            <ymin>247</ymin>
+            <xmax>315</xmax>
+            <ymax>422</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>276</xmin>
+            <ymin>405</ymin>
+            <xmax>360</xmax>
+            <ymax>576</ymax>
+        </bndbox>
+    </object>
+</annotation>

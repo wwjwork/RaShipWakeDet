@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>Fleet_100_11382_D2617_E36_A162_X1010Y-473_HD200_case032_Tb_H_aug10_T0_G1_P1_R1.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>347</xmin>
+            <ymin>83</ymin>
+            <xmax>386</xmax>
+            <ymax>112</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>249</xmin>
+            <ymin>64</ymin>
+            <xmax>367</xmax>
+            <ymax>105</ymax>
+        </bndbox>
+    </object>
+</annotation>

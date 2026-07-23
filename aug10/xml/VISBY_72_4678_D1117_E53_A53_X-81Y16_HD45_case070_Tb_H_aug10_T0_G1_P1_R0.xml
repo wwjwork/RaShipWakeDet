@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>output</folder>
+    <filename>VISBY_72_4678_D1117_E53_A53_X-81Y16_HD45_case070_Tb_H_aug10_T0_G1_P1_R0.png</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ship</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>383</xmin>
+            <ymin>259</ymin>
+            <xmax>414</xmax>
+            <ymax>334</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>wake</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>379</xmin>
+            <ymin>98</ymin>
+            <xmax>457</xmax>
+            <ymax>303</ymax>
+        </bndbox>
+    </object>
+</annotation>
