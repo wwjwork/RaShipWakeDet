@@ -1,4 +1,5 @@
 # RaShipWakeDet
+All files are in the master branch.
 The required environment for running can refer to “requirements. txt”, and the installation of the required environment can be completed by entering the following command in the terminal: “pip install -r requirements.txt”
 
 The data is located in the “aug10” folder. After completing the environment configuration, you can test it by running get_map.py.
