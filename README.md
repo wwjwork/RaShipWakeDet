@@ -18,7 +18,7 @@ The path and folder structure are shown below：
 ```
 RaShipWakeDet/
     ├── detector.py
-    ├── get_map1.py
+    ├── get_map.py
     ├── val_fold1.txt
     ├── val_fold2.txt
     ├── val_fold3.txt
